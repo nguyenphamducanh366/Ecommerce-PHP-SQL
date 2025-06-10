@@ -62,7 +62,7 @@
 	<!-- copyright -->
 	<div class="copy-right py-3">
 		<div class="container">
-			<p class="text-center text-white">© 2025 Electro Store. All rights reserved
+			<p class="text-center text-white">© 2025 PHP E-commerce. All rights reserved
 			</p>
 		</div>
 	</div>

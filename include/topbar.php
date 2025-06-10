@@ -81,7 +81,7 @@
 							}
 						?>
 						<li class="text-center border-right text-white">
-							<i class="fas fa-phone mr-2"></i> 001 234 5678
+							<i class="fas fa-phone mr-2"></i> 0332417843
 						</li>
 					</ul>
 
@@ -187,7 +187,7 @@
 				<div class="col-md-3 logo_agile">
 					<h1 class="text-center">
 						<a href="index.php" class="font-weight-bold font-italic">
-							<img src="images/logo2.png" alt=" " class="img-fluid">Electro Store
+							<img src="images/logo2.png" alt=" " class="img-fluid">PHP E-commerce
 						</a>
 					</h1>
 				</div>

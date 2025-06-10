@@ -8,7 +8,7 @@
 
 <head>
 	
-	<title>Electro store</title>
+	<title>PHP E-commerce</title>
 	<!-- Meta tag Keywords -->
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta charset="UTF-8" />
